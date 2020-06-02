@@ -1,0 +1,14 @@
+FovPlus
+Delay OldWay: 84645,bp:60totalProcessT: 1273, totalTileChunk:556
+Delay OldWay: 86691,bp:64totalProcessT: 1279, totalTileChunk:553
+Delay OldWay: 98769,bp:64totalProcessT: 1356, totalTileChunk:569
+Delay OldWay: 99693,bp:67totalProcessT: 1362, totalTileChunk:606
+Delay OldWay: 80949,bp:59totalProcessT: 1269, totalTileChunk:600
+Delay OldWay: 81312,bp:60totalProcessT: 1266, totalTileChunk:592
+fovOnly
+Delay OldWay: 29040,bp:34totalProcessT: 137691760, totalTileChunk:281002259
+Delay OldWay: 26664,bp:63totalProcessT: 738, totalTileChunk:213
+Delay OldWay: 44154,bp:47totalProcessT: 872, totalTileChunk:230
+Delay OldWay: 45144,bp:62totalProcessT: -2147483648, totalTileChunk:917090980
+Delay OldWay: 20856,bp:27totalProcessT: 705, totalTileChunk:280
+Delay OldWay: 26169,bp:48totalProcessT: -2147483648, totalTileChunk:935602550
